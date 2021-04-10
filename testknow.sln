@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entity", "entity\entity.csproj", "{890711C5-0B95-4DAB-95A1-5385E8BB8466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBTABLES", "WEBTABLES\WEBTABLES.csproj", "{266B8722-CC58-427B-A072-7E771F538898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreTest", "CoreTest\CoreTest.csproj", "{811EE520-6609-4DBC-89B1-D58D125C7C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{890711C5-0B95-4DAB-95A1-5385E8BB8466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890711C5-0B95-4DAB-95A1-5385E8BB8466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890711C5-0B95-4DAB-95A1-5385E8BB8466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890711C5-0B95-4DAB-95A1-5385E8BB8466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266B8722-CC58-427B-A072-7E771F538898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266B8722-CC58-427B-A072-7E771F538898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266B8722-CC58-427B-A072-7E771F538898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266B8722-CC58-427B-A072-7E771F538898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811EE520-6609-4DBC-89B1-D58D125C7C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811EE520-6609-4DBC-89B1-D58D125C7C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811EE520-6609-4DBC-89B1-D58D125C7C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811EE520-6609-4DBC-89B1-D58D125C7C00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A8375E-464C-47A3-9BB4-9FC94F9A3165}
+	EndGlobalSection
+EndGlobal

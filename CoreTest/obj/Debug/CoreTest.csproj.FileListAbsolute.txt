@@ -1,0 +1,12 @@
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\bin\Debug\CoreTest.dll
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\bin\Debug\CoreTest.pdb
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\bin\Debug\entity.dll
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\bin\Debug\EntityFramework.dll
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\bin\Debug\entity.pdb
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\bin\Debug\entity.dll.config
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\bin\Debug\EntityFramework.xml
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\obj\Debug\CoreTest.csprojAssemblyReference.cache
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\obj\Debug\CoreTest.csproj.CoreCompileInputs.cache
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\obj\Debug\CoreTest.csproj.CopyComplete
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\obj\Debug\CoreTest.dll
+C:\Users\Arely.castro\source\repos\testknow\CoreTest\obj\Debug\CoreTest.pdb
